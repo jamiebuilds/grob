@@ -2,7 +2,7 @@
 
 > `grep`, but in JavaScript.
 
-- Supports globs using [`fast-glob`]
+- Supports globs using [`fast-glob`](https://github.com/mrmlnc/fast-glob)
 - Faster than `grep`™†
 
 † Only faster than `grep` when you are already inside a Node process and would
