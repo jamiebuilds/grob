@@ -1,0 +1,31 @@
+{
+  "name": "grob",
+  "version": "0.0.0",
+  "description": "grep, but in JavaScript.",
+  "main": "index.js",
+  "repository": "jamiebuilds/grob",
+  "author": "Jamie Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "keywords": [
+    "grep",
+    "globs",
+    "search",
+    "regex",
+    "match"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "flow && ava"
+  },
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "flow-bin": "^0.75.0",
+    "spawndamnit": "^2.0.0"
+  },
+  "dependencies": {
+    "fast-glob": "^2.2.2",
+    "p-queue": "^2.4.2"
+  }
+}
