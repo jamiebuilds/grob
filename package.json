@@ -1,6 +1,6 @@
 {
   "name": "grob",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "grep, but in JavaScript.",
   "main": "index.js",
   "repository": "jamiebuilds/grob",
