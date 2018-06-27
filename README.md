@@ -6,7 +6,10 @@
 - Faster than `grep`™†
 
 † Only faster than `grep` when you are already inside a Node process and would
-  have to spawn a child process to run grep and then parse out the results.
+  have to spawn a child process to run grep and then parse out the results. ††
+  
+†† Okay dudes I get it, you're all Really Smart® but this did make my program
+  significantly faster so you can all take turns eating my ass.
 
 ## Install
 
